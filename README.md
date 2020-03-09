@@ -9,7 +9,7 @@ Added the following libraries in addition to the default webdriverio libraries n
 3. wdio-timeline-reporter (I am the author 5000+ downloads a week) - Great test report feedback. A single html report with screenshots (embedded if you wish) is created at the end of the test run. See documentation [here](https://www.npmjs.com/package/wdio-timeline-reporter)
 4. @wdio/selenium-standalone-service - To start and stop selenium in line with webdriverio test processes
 
-## Structures
+## Structure
 
 I decided to use Page Object model but modelled sections of the page instead. This would lead to cleaner code and better reuse as I can bet several sections on the page are used elsewhere on the website.
 
@@ -28,4 +28,4 @@ npm test
 
 I have added a html report of one of my runs to output/test-report.html
 
-A preview can be viewed on the web [here](https://github.com/benzaremean/which_tech_exercise/blob/master/output/test-report.html)
+A preview can be viewed on the web [here](http://htmlpreview.github.io/?https://github.com/benzaremean/which_tech_exercise/blob/master/output/test-report.html)
