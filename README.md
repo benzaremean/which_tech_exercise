@@ -4,10 +4,10 @@
 
 Added the following libraries in addition to the default webdriverio libraries needed
 
-1. babel - to allow for writing latest Javascript
-2. chai - For fluent assertions
-3. wdio-timeline-reporter (I am the author 5000+ downloads a week) - Great test report feedback. A single html report with screenshots (embedded if you wish) is created at the end of the test run. See documentation [here](https://www.npmjs.com/package/wdio-timeline-reporter)
-4. @wdio/selenium-standalone-service - To start and stop selenium in line with webdriverio test processes
+1. **babel** - to allow for writing latest Javascript
+2. **chai** - For fluent assertions
+3. **wdio-timeline-reporter** (I am the author 5000+ downloads a week) - Great test report feedback. A single html report with screenshots (embedded if you wish) is created at the end of the test run. See documentation [here](https://www.npmjs.com/package/wdio-timeline-reporter)
+4. **@wdio/selenium-standalone-service** - To start and stop selenium in line with webdriverio test processes
 
 ## Structure
 
