@@ -21,8 +21,10 @@ Chrome browser (Tested on Version 80.0.3987.132)
 
 # To Run
 
+```shell
 npm install
 npm test
+```
 
 # Report
 
