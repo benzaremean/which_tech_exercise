@@ -30,6 +30,8 @@ npm test
 
 I have added a html report of one of my runs to output/test-report.html
 
+Recording is also available [here](https://drive.google.com/file/d/1CBqs55mX0lpxGKnkbprgBr_SsAngaJpL/view?usp=sharing)
+
 A preview can be viewed on the web [here](http://htmlpreview.github.io/?https://github.com/benzaremean/which_tech_exercise/blob/master/output/test-report.html)
 
 ## Regarding Functional Tests for the Page
