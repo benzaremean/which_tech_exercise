@@ -31,3 +31,15 @@ npm test
 I have added a html report of one of my runs to output/test-report.html
 
 A preview can be viewed on the web [here](http://htmlpreview.github.io/?https://github.com/benzaremean/which_tech_exercise/blob/master/output/test-report.html)
+
+## Regarding Functional Tests for the Page
+
+I see three main Features that several functional tests can be written for
+
+1. Product Comparison
+
+   - I covered 4 scenarios in my automated [tests](src/tests/comparison.spec.js)
+
+2. Product Filtering
+
+3. Product Display including paginaton
