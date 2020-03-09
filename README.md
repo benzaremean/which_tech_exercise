@@ -15,9 +15,9 @@ I decided to use Page Object model but modelled sections of the page instead. Th
 
 ## Prerequisites
 
-Java 8
-Node 12
-Chrome browser (Tested on Version 80.0.3987.132)
+- Java 8
+- Node 12
+- Chrome browser (Tested on Version 80.0.3987.132)
 
 # To Run
 
